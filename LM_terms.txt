@@ -1,9 +1,19 @@
-Mistral AI
-artificial intelligence system
-AI system
-Claude
-AI assistant
-ChatGPT
+palm
+lms
+llama
+transformers
+language models
 language model
-GPT-4
-AI-driven platform
+gpt
+plms
+pretrained language models
+gpt-2
+xlnet
+large language models
+llms
+gpt-3
+foundation model
+gpt-neo
+gpt-j
+chatgpt
+gpt-4
